@@ -1,4 +1,4 @@
-![Bio](gitops-e2e-Page-2.jpg)
+![Bio](vijaysamanuri-bio.jpg)
 
 
 ### Hi there 👋
