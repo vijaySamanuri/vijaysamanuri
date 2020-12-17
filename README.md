@@ -1,3 +1,6 @@
+![Bio](gitops-e2e-Page-2.jpg)
+
+
 ### Hi there 👋
 
 <!--
