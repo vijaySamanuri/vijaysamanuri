@@ -1,4 +1,4 @@
-![Bio](vijaysamanuri-bio.jpg)
+![Bio](vijaysamanuribio.jpg)
 
 ### $ kubectl get profile vijaysamanuri -o yaml
 
