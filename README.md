@@ -1,5 +1,5 @@
 #### My Routine
-![Bio](vijaysamanuri-routine.jpg)
+![Bio](vijaysamanauri-routine.jpg)
 
 #### $ kubectl get profile vijaysamanuri -o yaml
 
