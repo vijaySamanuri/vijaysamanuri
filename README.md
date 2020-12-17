@@ -1,6 +1,7 @@
-![Bio](vijaysamanuribio.jpg)
+#### My Routine
+![Bio](vijaysamanuri-routine.jpg)
 
-### $ kubectl get profile vijaysamanuri -o yaml
+#### $ kubectl get profile vijaysamanuri -o yaml
 
 ```yaml
 kind: Profile
