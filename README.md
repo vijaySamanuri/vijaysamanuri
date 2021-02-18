@@ -14,12 +14,12 @@ metadata:
 spec:
   firstName: "VijayRamaRaju"
   lastName: "Samanuri"
-  currentRole: "Software Architect"
-  company: "Pramati Technologies"
-  location: "Hyderabad, India"
+  currentRole: "Senior Member of Technical Staff"
+  company: "VMware"
   linkedIn: www.linkedin.com/in/vijayramaraju
   twitter: https://twitter.com/vijayrrsamanuri
   website: https://vijaysamanuri.github.io/
+  location: "Hyderabad, India"
   projects:
   - name: HyScale
     website: https://www.hyscale.io/
